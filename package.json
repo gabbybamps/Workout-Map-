@@ -1,0 +1,23 @@
+{
+  "name": "Workout Map",
+  "version": "1.0.0",
+  "description": "Workout Map",
+  "main": "script.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabbybamps/Workout-Map-.git"
+  },
+  "author": "Gabriel Asante Bampoe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabbybamps/Workout-Map-/issues"
+  },
+  "homepage": "https://github.com/gabbybamps/Workout-Map-#readme",
+  "dependencies": {
+    "parcel": "^2.0.0"
+  }
+}
